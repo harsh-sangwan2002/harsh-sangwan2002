@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=harsh-sangwan2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on alan-ai-news-app<br><br>🌱 I’m currently learning ...<br><br>👯 I’m looking to collaborate on ...<br><br>🤝 I’m looking for help with ...<br><br>👨‍💻 All of my projects are available at https://github.com/harsh-sangwan2003?tab=repositories<br><br>📄 Know about my experiences https://drive.google.com/file/d/1X27zAbSjfHwIukeMXJz4OwmBdIxj0Iun/view?usp=sharing
+🔭 I’m currently working on alan-ai-news-app<br><br>🌱 I’m currently learning ...<br><br>👯 I’m looking to collaborate on ...<br><br>🤝 I’m looking for help with ...<br><br>👨‍💻 All of my projects are available at https://github.com/harsh-sangwan2003?tab=repositories<br><br>📄 Know about my experiences https://drive.google.com/file/d/19yFconYVDiCDNtjIc3Ln-o-nM30jO8xU/view?usp=sharing
 
 
 ## 🌐 Socials:
