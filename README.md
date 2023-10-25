@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on alan-ai-news-app<br><br>🌱 I’m currently learning ...<br><br>👯 I’m looking to collaborate on ...<br><br>🤝 I’m looking for help with ...<br><br>👨‍💻 All of my projects are available at https://github.com/harsh-sangwan2003?tab=repositories<br><br>📄 Know about my experiences https://drive.google.com/file/d/1HEzJszNxQzR0LB5bmpu5H3yH2S9As7Tn/view?usp=sharing<br><br>👨‍💻 My personal portfolio website https://react-potfolio-website.vercel.app/
+🔭 I’m currently working on alan-ai-news-app<br><br>🌱 I’m currently learning ...<br><br>👯 I’m looking to collaborate on ...<br><br>🤝 I’m looking for help with ...<br><br>👨‍💻 All of my projects are available at https://github.com/harsh-sangwan2003?tab=repositories<br><br>📄 Know about my experiences https://drive.google.com/file/d/1S3Jay9PLcRlsxbEdweXSI9G-pwvnWFGc/view?usp=sharing<br><br>👨‍💻 My personal portfolio website https://react-potfolio-website.vercel.app/
 
 
 ## 🌐 Socials:
