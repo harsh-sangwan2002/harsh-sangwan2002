@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Hola, I'm Hitesh Rana!</h1>
-  <h4>Turning bits into bytes and bugs into features. 🐞👾</h4>
+  <h1>Hi, I'm Harsh Sangwan!</h1>
+  <h4>Fixing Bugs in Life. 🐞👾</h4>
 </div>
 
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Developer<3;DevOps;Programmer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Developer<3;Web Developer;Programmer">
   </a>
 </p>
 <div align="center">
