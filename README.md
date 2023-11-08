@@ -44,7 +44,7 @@
 <h2 align="center">📈 Top Repositories</h2>
 <table align = "center">
 <td>
-  <a href="https://github.com/harsh-sangwan/Data-Structure-And-Algo">
+  <a href="https://github.com/harsh-sangwan2003/Data-Structure-And-Algo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harsh-sangwan2003&repo=Data-Structure-And-Algo&theme=synthwave" />
   </a>
 </td>
