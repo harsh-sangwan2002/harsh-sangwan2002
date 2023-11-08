@@ -1,12 +1,29 @@
-# 💫 About Me:
-🔭 I’m currently working on alan-ai-news-app<br><br>🌱 I’m currently learning ...<br><br>👯 I’m looking to collaborate on ...<br><br>🤝 I’m looking for help with ...<br><br>👨‍💻 All of my projects are available at https://github.com/harsh-sangwan2003?tab=repositories<br><br>📄 Know about my experiences https://drive.google.com/file/d/1S3Jay9PLcRlsxbEdweXSI9G-pwvnWFGc/view?usp=sharing<br><br>👨‍💻 My personal portfolio website https://react-potfolio-website.vercel.app/
+<div align="center">
+  <h1>Hola, I'm Hitesh Rana!</h1>
+  <h4>Turning bits into bytes and bugs into features. 🐞👾</h4>
+</div>
 
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Developer<3;DevOps;Programmer">
+  </a>
+</p>
+<div align="center">
+<br>
+<img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "100" height = "100">
+<img src="https://user-images.githubusercontent.com/87887741/138171656-80bfc204-e6c3-4a7d-83c2-5c003f671bf3.jpg" width = "100" height = "100">
+<br/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sangwaan_harsh07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-sangwan2003) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22666727/harsh-sangwan) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- 💻 Language & Technology -->
+<h1 align = "center">⚡ Language & Technologies</h1>
+<h2 align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,golang,java,html,css,scss,react,next,tailwind,fastapi,nodejs,express,redux,flask,git,github,linux,bash,mongo,redis,postgres,mysql,firebase,docker,kubernetes,aws,vercel">
+</h2>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harsh-sangwan2003&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harsh-sangwan2003&theme=radical&hide_border=false)<br/>
@@ -16,6 +33,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=harsh-sangwan2003&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harsh-sangwan2003&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Visitor Count -->
+
+<h2 align = "center">👀Visitor Count<br>
+<img align = "center" src="https://profile-counter.glitch.me/harsh-sangwan2003/count.svg" />
+</h2>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
