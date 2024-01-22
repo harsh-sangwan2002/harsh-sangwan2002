@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Harsh Sangwan!</h1>
-  <h4>Fixing Bugs in Life. 🐞👾</h4>
+  <h4>Turning caffeine into code, one stack at a time! ☕💻</h4>
 </div>
 
 <p align="center">
