@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Harsh Sangwan!</h1>
-  <h4>Aspiring Software Developer specializing in JavaScript, ReactJS, NodeJS, Redux, Java, and SQL, with expertise in Data Structures and Algorithms, focused on crafting robust and enterprise-grade applications. ☕💻</h4>
+  <h4 align="center">Aspiring Software Developer specializing in JavaScript, ReactJS, NodeJS, Redux, Java, and SQL, with expertise in Data Structures and Algorithms, focused on crafting robust and enterprise-grade applications. ☕💻</h4>
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <!-- 💻 Language & Technology -->
 <h1 align = "center">⚡ Language & Technologies</h1>
 <h2 align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,node,express,firebase,javascript,typescript,java,html,css,scss,tailwind,styledcomponents,git,github,mongo,mysql,vercel,vscode,postman,threejs,vite">
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,firebase,javascript,typescript,java,html,css,scss,tailwind,styledcomponents,git,github,mongo,mysql,vercel,vscode,postman,threejs,vite">
 </h2>
 
 # 📊 GitHub Stats:
