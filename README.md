@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Harsh Sangwan!</h1>
-  <h4 style="margin: 20px; padding: 20px;">Aspiring Software Developer specializing in JavaScript, ReactJS, NodeJS, Redux, Java, and SQL, with expertise in Data Structures and Algorithms, focused on crafting robust and enterprise-grade applications. ☕💻</h4>
+  <h4 align="center">Aspiring Software Developer specializing in JavaScript, ReactJS, NodeJS, Redux, Java, and SQL, with expertise in Data Structures and Algorithms, focused on crafting robust and enterprise-grade applications. ☕💻</h4>
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </div>
 
 ## 🌐 Socials:
-[![Scaler Academy](https://img.shields.io/badge/Scaler-%230077B5.svg?logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/8b91ae8c9931/)
+[![Scaler Academy](https://img.shields.io/badge/Scaler%20Academy-%2300A3E0.svg?logo=acm&logoColor=white)](https://www.scaler.com/academy/profile/8b91ae8c9931/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-sangwan2003)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22666727/harsh-sangwan) 
 
