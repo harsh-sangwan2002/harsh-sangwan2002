@@ -16,7 +16,8 @@
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://assets-v2.scaler.com/assets/scaler/svg/scaler-logo-new-15cddca2e0196e677600f6671b42a288bdc89c398adc29fe82b7441503c4b129.svg.gz))](https://www.scaler.com/academy/profile/8b91ae8c9931/)
+[![Scaler Academy](https://assets-v2.scaler.com/assets/scaler/svg/scaler-logo-new-15cddca2e0196e677600f6671b42a288bdc89c398adc29fe82b7441503c4b129.svg.gz))]
+(https://img.shields.io/badge/Scaler-%230077B5.svg?logo=scaler&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-sangwan2003)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22666727/harsh-sangwan) 
 
