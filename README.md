@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Harsh Sangwan!</h1>
-  <h4>Turning caffeine into code, one stack at a time! ☕💻</h4>
+  <h4>Aspiring Software Developer specializing in JavaScript, ReactJS, NodeJS, Redux, Java, and SQL, with expertise in Data Structures and Algorithms, focused on crafting robust and enterprise-grade applications. ☕💻</h4>
 </div>
 
 <p align="center">
@@ -16,12 +16,14 @@
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sangwaan_harsh07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-sangwan2003) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22666727/harsh-sangwan) 
+[![Instagram](https://assets-v2.scaler.com/assets/scaler/svg/scaler-logo-new-15cddca2e0196e677600f6671b42a288bdc89c398adc29fe82b7441503c4b129.svg.gz))](https://www.scaler.com/academy/profile/8b91ae8c9931/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-sangwan2003)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22666727/harsh-sangwan) 
 
 <!-- 💻 Language & Technology -->
 <h1 align = "center">⚡ Language & Technologies</h1>
 <h2 align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,golang,java,html,css,scss,react,next,tailwind,fastapi,nodejs,express,redux,flask,git,github,linux,bash,mongo,redis,postgres,mysql,firebase,docker,kubernetes,aws,vercel">
+<img src="https://skillicons.dev/icons?i=react,redux,node,express,firebase,javascript,typescript,java,html,css,scss,tailwind,styledcomponents,git,github,mongo,mysql,vercel,vscode,postman,threejs,vite">
 </h2>
 
 # 📊 GitHub Stats:
