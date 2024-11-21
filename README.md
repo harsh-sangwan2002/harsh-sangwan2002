@@ -26,10 +26,6 @@
 <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,firebase,javascript,typescript,java,html,css,scss,tailwind,styledcomponents,git,github,mongo,mysql,vercel,vscode,postman,threejs,vite">
 </h2>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-sangwan2003&theme=synthwave" />
-</p>
-
 <!-- Visitor Count -->
 
 <h2 align = "center">👀Visitor Count<br>
