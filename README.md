@@ -27,15 +27,9 @@
 </h2>
 
 # 📊 GitHub Stats:
-<h2 align="center">📈 GitHub Statistics</h2>
-<table align = "center">
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-sangwan2003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=synthwave"/>
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-sangwan2003&langs_count=10&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&hide_progress=true&theme=synthwave" />
-</td>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=harsh-sangwan2002&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harsh-sangwan2002&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-sangwan2002&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-sangwan2003&theme=synthwave" />
