@@ -26,32 +26,10 @@
 <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,firebase,javascript,typescript,java,html,css,scss,tailwind,styledcomponents,git,github,mongo,mysql,vercel,vscode,postman,threejs,vite">
 </h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh-sangwan2002&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harsh-sangwan2002&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-sangwan2002&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-sangwan2003&theme=synthwave" />
 </p>
 
-<!-- Top Repositories -->
-
-<h2 align="center">📈 Top Repositories</h2>
-<table align = "center">
-<td>
-  <a href="https://github.com/harsh-sangwan2003/Data-Structure-And-Algo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harsh-sangwan2003&repo=Data-Structure-And-Algo&theme=synthwave" />
-  </a>
-</td>
-<td>
-<a href="https://github.com/harsh-sangwan2003/React-JS-Udemy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harsh-sangwan2003&repo=React-JS-Udemy&theme=synthwave" />
-</a>
-</td>
-</table>
-
----
 <!-- Visitor Count -->
 
 <h2 align = "center">👀Visitor Count<br>
