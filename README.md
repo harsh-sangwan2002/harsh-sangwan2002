@@ -44,7 +44,7 @@
 <!-- Connect With Me -->
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
-  <a target="_blank" href="https://bio.link/harsh-sangwan2002"\>Visit🌐</a>&nbsp;&nbsp;
+  <a target="_blank" href="https://harsh-react-portfolio.netlify.app/"\>Visit🌐</a>&nbsp;&nbsp;
 </div>
 <br/>
 
