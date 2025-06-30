@@ -23,7 +23,7 @@
 <!-- 💻 Language & Technology -->
 <h1 align = "center">⚡ Language & Technologies</h1>
 <h2 align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,firebase,javascript,typescript,java,html,css,scss,tailwind,styledcomponents,git,github,mongo,mysql,vercel,vscode,postman,threejs,vite">
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,firebase,javascript,typescript,java,python,spring,webpack,html,css,scss,tailwind,styledcomponents,git,github,mongo,mysql,vercel,vscode,postman,threejs,vite">
 </h2>
 
 <!-- Github Statistics -->
