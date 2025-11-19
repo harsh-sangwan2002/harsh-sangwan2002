@@ -17,7 +17,7 @@
 
 ## 🌐 Socials:
 [![Scaler Academy](https://img.shields.io/badge/Scaler%20Academy-%2300A3E0.svg?logo=acm&logoColor=white)](https://www.scaler.com/academy/profile/8b91ae8c9931/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-sangwan2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-sangwan2002)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22666727/harsh-sangwan) 
 
 <!-- 💻 Language & Technology -->
