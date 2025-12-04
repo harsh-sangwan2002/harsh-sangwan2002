@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Harsh Sangwan!</h1>
-  <h4 align="center">Professional Software Developer with 2+ YOE specialising in JavaScript, ReactJS, NodeJS, Redux, Spring, Spring Boot, Java, and SQL, with expertise in Data Structures and Algorithms.☕💻</h4>
+  <h4 align="center">Professional Software Developer with 1+ YOE specialising in JavaScript, ReactJS, NodeJS, Redux, Spring, Spring Boot, Java, and SQL, with expertise in Data Structures and Algorithms.☕💻</h4>
 </div>
 
 <p align="center">
