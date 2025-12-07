@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Harsh Sangwan!</h1>
-  <h4 align="center">Professional Software Developer with 1+ YOE specialising in JavaScript, ReactJS, NodeJS, Redux, Spring, Spring Boot, Java, and SQL, with expertise in Data Structures and Algorithms.☕💻</h4>
+  <h4 align="left">• Professional Software Engineer with 1+ years of hands-on experience in building scalable applications using React, Node.js, Express, Java, Spring Boot, SQL, and MongoDB.☕💻</h4>
+  <h4 align="left">• Skilled in designing efficient, maintainable systems with a strong foundation in Data Structures and Algorithms.</h4>
+  <h4 align="left">• Passionate about crafting clean, performant code and solving complex technical challenges.</h4>
 </div>
 
 <p align="center">
