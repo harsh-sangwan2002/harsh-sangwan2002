@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Harsh Sangwan!</h1>
-  <h4 align="left">Software Development Engineer with 2+ years of experience building scalable, user-facing and internal platforms using React, Node.js, Express, Java, Spring Boot, SQL, and MongoDB, with a strong focus on performance, clean architecture, and production-ready systems.☕💻</h4>
+  <h4 align="left">Software Development Engineer with 1+ years of experience building scalable, user-facing and internal platforms using React, Node.js, Express, Java, Spring Boot, SQL, and MongoDB, with a strong focus on performance, clean architecture, and production-ready systems.☕💻</h4>
 </div>
 
 <p align="center">
